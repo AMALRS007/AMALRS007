@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AMALRS007
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on making money
-- 📫 How to reach me @good_._._will on instagram
+- 🌱 I learned computer science and engineering
+- 💞️ I’m looking to collaborate on making a good life
+- 📫 
 
 <!---
 AMALRS007/AMALRS007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
